@@ -4,6 +4,9 @@
     gap: 20px;
     grid-auto-rows: minmax(100px, auto);
     background-color: #F2F2F2;
+    justify-content: center;
+    margin: 8%;
+
   }
 
 .nameblock2col {
@@ -40,7 +43,7 @@
 
 
 .blurb {
-    margin-top: 12%;
+    margin-top: 15%;
 }
 .daniel {
     background-color: #733FC8;
