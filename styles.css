@@ -126,3 +126,44 @@
 .vergrad {
     opacity: 50%;
 }
+
+@media (max-width: 375px) {
+    .wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5, 1fr);    
+    }
+
+    .daniel {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .jonathan {
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .jeanette {
+        grid-column: 1;
+        grid-row: 3;
+    }
+
+    .patrick {
+        grid-column: 1;
+        grid-row: 4;
+    }
+
+    .kira {
+        grid-column: 1;
+        grid-row: 5;
+    }
+
+    .nameblock2col {
+        width: 100%;
+    }
+
+    .blurb {
+        padding-top: 10%;
+    }
+}
