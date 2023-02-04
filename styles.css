@@ -159,11 +159,20 @@
         grid-row: 5;
     }
 
+    .name {
+        width: 70%;
+        padding-left: 10%;
+    }
+
     .nameblock2col {
         width: 100%;
     }
 
+    .nameblock1col {
+        width: 100%;
+    }
+
     .blurb {
-        padding-top: 10%;
+        padding-top: 30%;
     }
 }
