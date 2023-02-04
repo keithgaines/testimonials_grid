@@ -3,6 +3,7 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     grid-auto-rows: minmax(100px, auto);
+    background-color: #F2F2F2;
   }
 
 .nameblock2col {
@@ -69,6 +70,12 @@
 .jeanette {
     grid-column: 1;
     grid-row: 2;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: white;
 }
 
 .patrick {
