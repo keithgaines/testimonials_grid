@@ -6,13 +6,13 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -21,13 +21,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-
-### Screenshot
-
-![](./desktopscreenshot.png)
-![](./mobilescreenshot.png)
-
-
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
@@ -48,15 +41,15 @@ Users should be able to:
 
 ### What I learned
 
-    CSS Fundamentals: By building this website using vanilla CSS, I was able to reinforce my understanding of the basics of CSS, such as the box model, selectors, and the use of different properties and values.
+CSS Fundamentals: By building this website using vanilla CSS, I was able to reinforce my understanding of the basics of CSS, such as the box model, selectors, and the use of different properties and values.
 
-    CSS Grid: I learned how to use CSS Grid to create a responsive layout without the use of a front-end framework such as Bootstrap. I was able to create a grid system to place the testimonial blocks, which allowed me to control their placement and size.
+CSS Grid: I learned how to use CSS Grid to create a responsive layout without the use of a front-end framework such as Bootstrap. I was able to create a grid system to place the testimonial blocks, which allowed me to control their placement and size.
 
-    Custom Styling: I learned how to create custom styles for my website, rather than relying on pre-existing styles from a framework. This gave me more control over the design and allowed me to create a unique look for my website.
+Custom Styling: I learned how to create custom styles for my website, rather than relying on pre-existing styles from a framework. This gave me more control over the design and allowed me to create a unique look for my website.
 
-    Problem-solving: By working with vanilla CSS, I was able to sharpen my problem-solving skills, as I had to find creative solutions to common web design challenges without the aid of pre-built components.
+Problem-solving: By working with vanilla CSS, I was able to sharpen my problem-solving skills, as I had to find creative solutions to common web design challenges without the aid of pre-built components.
 
-    Browser Compatibility: I gained a deeper understanding of how to make sure my website works across different browsers and devices, which is essential for building accessible and user-friendly websites.
+Browser Compatibility: I gained a deeper understanding of how to make sure my website works across different browsers and devices, which is essential for building accessible and user-friendly websites.
 
 ### Continued development
 
@@ -70,3 +63,9 @@ With a focus on continued learning and professional growth, I am excited to expl
 
 - Website - [Keith Gaines](https://keithgaines.github.io)
 - Frontend Mentor - [@keithgaines](https://www.frontendmentor.io/profile/keithgaines
+
+
+### Screenshot
+
+![](./desktopscreenshot.png)
+![](./mobilescreenshot.png)
