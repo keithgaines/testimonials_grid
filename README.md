@@ -68,4 +68,4 @@ With a focus on continued learning and professional growth, I am excited to expl
 ### Screenshot
 
 ![](./desktopscreenshot.png)
-![](./mobilescreenshot.png)
+
