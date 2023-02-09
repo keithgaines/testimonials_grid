@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-6hsn0BDVYU)
-- Live Site URL: [Add live site URL here](https://keithgaines.github.io/testimonials_grid/)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-6hsn0BDVYU))]
+- Live Site URL: [[Add live site URL here](https://keithgaines.github.io/testimonials_grid/)]
 
 ## My process
 
