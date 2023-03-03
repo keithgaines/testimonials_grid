@@ -6,13 +6,13 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Screenshot](#screenshot)
 
 ## Overview
 
@@ -23,6 +23,11 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
+### Screenshot
+
+![](./desktopscreenshot.png)
+
 
 ### Links
 
@@ -65,7 +70,4 @@ With a focus on continued learning and professional growth, I am excited to expl
 - Frontend Mentor - [@keithgaines](https://www.frontendmentor.io/profile/keithgaines
 
 
-### Screenshot
-
-![](./desktopscreenshot.png)
 
